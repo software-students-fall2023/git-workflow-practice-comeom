@@ -9,6 +9,3 @@ Now aside from this graph being misleading because software developers' love liv
 
 ## Alvis Yan Comments
 After not very careful examination of this graph I think the best action to take is to quit being a software enginner, become a middle school teacher and then marry with a software enginner. Everyone wins. Cheers. 
-
-## Nathalia Xu Comments
-I guess software engineers spend too long working and end up building relationships with fellow works who spend just as long at work? Maybe there is not enough time for many of them to venture out and date other human beings with a different job. With that said, software engineers can build a home with elementary and middle school teachers, who often have a healthy work schedule. They can create a good balance. Going down the list, while there are different jobs, IT-related jobs, finance jobs, and teachers seem to make up most of the rest.
